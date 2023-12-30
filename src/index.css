@@ -6,7 +6,7 @@
     box-sizing: border-box;
     }
     
-    html, body {
+    body {
       height: 100%;
     }
     
@@ -93,7 +93,7 @@ main h2 {
 }
 
 #tab-content h3 {
-  margin: 0;
+  margin-bottom: 1rem;
 }
 
 #tab-content code {
